@@ -1,0 +1,5 @@
+/files/
+/files_journal/
+/ojs/
+/ojs_files/
+/files_ojs/
